@@ -17,6 +17,7 @@
 &emsp;&emsp;&emsp;&emsp;带入到Hoeffding不等式右边计算出结果为$2exp\left(-2\times(0.8)^2\times10\right)=5.52\times10^{-6}$  
 &emsp;&emsp;&emsp;&emsp;**Hoeffding's Inequality**  
 <center>$\Bbb{P}\left[|\nu-\mu|\gt\epsilon\right]\le2exp\left(-2\epsilon^2N\right)$</center>  
+
 13、$\frac{8}{256}$  
 &emsp;&emsp;解：1的一面为橙色的有B和C两种骰子，在一次抽样中抽到橙色的概率为$\frac{1}{2}$，所以总的概率为$\left(\frac{1}{2}\right)^{5}=\frac{1}{32}=\frac{8}{256}$  
 14、$\frac{31}{256}$  
