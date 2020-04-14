@@ -6,5 +6,14 @@
     * homework3
     * homework4
   + [Techniques](techniques/)
+    * [homework1](foundations/homework1.md)
+    * homework2
+    * homework3
+    * homework4
+  
+  + algorithm
+    * [Perceptron](foundations/code/)
+    * Linear Regression
+    * Logistic Regression
  
 
