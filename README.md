@@ -12,7 +12,7 @@
 &emsp;&emsp;解：计算方式同上$C_{10}^{9}\left(\frac{9}{10}\right)^9\left(\frac{1}{10}\right)^1=0.3874$  
 11、$9.1\times10^{-9}$  
 &emsp;&emsp;解：$P(\nu\le0.1)=C_{10}^{9}\left(\frac{1}{10}\right)^9\left(\frac{1}{10}\right)^1+0.1^{10}=9.1\times10^{-9}$  
-12、$5.52\times10^{-6}$ 
+12、$5.52\times10^{-6}$  
 &emsp;&emsp;解：根据Hoeffding不等式进行带入计算$\mu=0.9,\nu\le0.1$则$\nu-\mu\le-0.8$所以$|\nu-\mu|\ge0.8$得到的$\epsilon=0.8$  
 &emsp;&emsp;&emsp;&emsp;带入到Hoeffding不等式右边计算出结果为$2exp\left(-2\times(0.8)^2\times10\right)=5.52\times10^{-6}$  
 &emsp;&emsp;&emsp;&emsp;**Hoeffding's Inequality**  
