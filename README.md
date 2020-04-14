@@ -1,4 +1,3 @@
-<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
 1、**(ii),(iv) and (v)**  
 2、**reinforcement learning**  
 3、**unsupervised learning**  
