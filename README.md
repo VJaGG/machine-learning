@@ -2,7 +2,7 @@
 2、**reinforcement learning**  
 3、**unsupervised learning**  
 4、**supervised learning**  
-5、**activate learning**  
+5、**activate learning**  ax^{2} + by^{2} + c = 0
 6、$\frac{1}{L}\times\left(\lfloor\frac{N+1}{2}\rfloor-\lfloor\frac{N}{2}\rfloor\right)$（主要是计算偶数的个数，偶数是错误的）  
 7、$2^L$
 8、$\Bbb{E}_{f}\lbrace\mit{E_{OTS}}\left(\cal{A_{1}}\left(\cal{D}\right), f\right)\rbrace=\Bbb{E}_{f}\lbrace\mit{E_{OTS}}\left(\cal{A_{2}}\left(\cal{D}\right), f\right)\rbrace$
