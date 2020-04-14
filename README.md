@@ -5,7 +5,7 @@
 5、**activate learning**  
 6、$\frac{1}{L}\times\left(\lfloor\frac{N+1}{2}\rfloor-\lfloor\frac{N}{2}\rfloor\right)$（主要是计算偶数的个数，偶数是错误的）  
 7、$2^L$  
-8、$\lbrace a*b\rbrace :a*b$  
+8、$\lbrace ab\rbrace :ab$  
 9、**0.24**  
 &emsp;&emsp;解：题目中$\mu=0.5$为了保证采样的10个弹珠中$\nu=0.5$则进行排列组合${C_{10}^{5}}\left(\frac{1}{2}\right)^{10}=0.24$  
 10、**0.39**  
