@@ -1,7 +1,6 @@
 # machine-learning  
 ## Table of Contents
-  + [Neural Network](mlfromscratch/deep_learning/neural_network.py)
-  + [Layers](mlfromscratch/deep_learning/layers.py)
+  + foundation
     * Activation Layer
     * Average Pooling Layer
     * Batch Normalization Layer
