@@ -1,6 +1,6 @@
 # machine-learning  
 ## Table of Contents
-  + Foundation
+  + [Foundation](foundations)
   
     * [homework1](foundations/homework1.md)
     * homework2
