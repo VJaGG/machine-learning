@@ -7,7 +7,7 @@
 7、$2^L$  
 8、$\Bbb{E_{f}}\lbrace E_{OTS}\rbrace $
 
-$\Bbb{E}_{f}\lbrace \mit{E_{OTS}}\left(\cal{A_{1}}\left(\cal{D}\right), f\right)\rbrace =\Bbb{E}_{f}\lbrace  \mit{E_{OTS}}\left(\cal{A_{2}}\left(\cal{D}\right), f\right)\rbrace $
+$\Bbb{E_{f}}\lbrace \mit{E_{OTS}}\left(\cal{A_{1}}\left(\cal{D}\right), f\right)\rbrace =\Bbb{E_{f}}\lbrace  \mit{E_{OTS}}\left(\cal{A_{2}}\left(\cal{D}\right), f\right)\rbrace $
 
 9、**0.24**  
 &emsp;&emsp;解：题目中$\mu=0.5$为了保证采样的10个弹珠中$\nu=0.5$则进行排列组合${C_{10}^{5}}\left(\frac{1}{2}\right)^{10}=0.24$  
