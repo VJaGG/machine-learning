@@ -5,4 +5,6 @@
     * homework2
     * homework3
     * homework4
+  + [Techniques](techniques/)
+ 
 
