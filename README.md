@@ -11,7 +11,7 @@
     * homework3
     * homework4
   
-  + algorithm
+  + Algorithm
     * [Perceptron](foundations/code/)
     * Linear Regression
     * Logistic Regression
