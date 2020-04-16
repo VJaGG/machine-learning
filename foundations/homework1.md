@@ -29,5 +29,5 @@ $\Bbb{P}\left[|\nu-\mu|\gt\epsilon\right]\le2exp\left(-2\epsilon^2N\right)$
 &emsp;&emsp;为$\left(4\right)^{5}$，其中为纯色的有，对于1来说纯色只能在B和C中选共有$\left(2\right)^{5}$中可能上述一  
 &emsp;&emsp;共有$4\times\left(2\right)^{5}$其中AA多计算一次同理其他都多计算一次所以有$4$个重复的，则最后的结果  
 &emsp;&emsp;为$\frac{4\times\left(2\right)^{5}-4}{\left(4\right)^{5}}=\frac{31}{256}$  
-15~17、[runing perceptron](foundations/code/perceptron.py)
+15~17、[runing perceptron](foundations/code/perceptron.py)  
 18~20、[runing pocket](foundations/code/pocket.py)
