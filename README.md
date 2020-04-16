@@ -12,7 +12,8 @@
     * homework4
   
   + Algorithm
-    * [Perceptron](foundations/code/)
+    * [Perceptron](foundations/code/perceptron.py)
+    * [Pocket](foundations/code/pocket.py)
     * Linear Regression
     * Logistic Regression
  
