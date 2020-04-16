@@ -2,7 +2,7 @@
 ## Table of Contents
   + [Foundations](foundations)
     * [homework1](foundations/homework1.md)
-    * homework2
+    * [homework2](foundations/homework2.md)
     * homework3
     * homework4
   + [Techniques](techniques/)
