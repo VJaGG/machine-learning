@@ -4,7 +4,12 @@
 
 
 4、$Devroye$  
-&emsp;&emsp;解：按着题意将$d_{vc}=50, \sigma=0.05$带入下面各式计算结果  
+&emsp;&emsp;解：按着题意将$d_{vc}=50, \sigma=0.05, N=10000$带入下面各式计算结果  
 &emsp;&emsp;$Original=0.632174915200836,Radmacher=0.3282912038471584,Parrondo=0.2236982936807856,$  
 &emsp;&emsp;$Devroye=0.21522850732079352,Variant=0.8604259707062739$左右两边都有未知数$\epsilon$按二元一次方程组来  
+&emsp;&emsp;解。  
+5、$Parrondo$  
+&emsp;&emsp;解：按着题意将$d_{vc}=50, \sigma=0.05, N=5$带入下面各式计算结果  
+&emsp;&emsp;$Original=13.828161484991483,Radmacher=7.048776564183685,Parrondo=5.101361981989992,$  
+&emsp;&emsp;$Devroye=5.599525295062205,Variant=16.264111061012045$左右两边都有未知数$\epsilon$按二元一次方程组来  
 &emsp;&emsp;解。
