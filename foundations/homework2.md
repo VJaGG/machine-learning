@@ -3,7 +3,7 @@
 &emsp;&emsp;解：在有noise的情况下，也就是在某一点x的值不再是Deterministic的了，不是确定的，存在着一定的概率值。比如在x点，有0.7的概率y=1，有0.3的概率y=0，即y是按照P(y|x)分布的。  
 
 
-4、  
+4、$Devroye$  
 &emsp;&emsp;解：按着题意将$d_{vc}=50, \sigma=0.05$带入下面各式计算结果  
 &emsp;&emsp;$Original=0.632174915200836,Radmacher=0.3282912038471584,Parrondo=0.2236982936807856,$  
 &emsp;&emsp;$Devroye=0.21522850732079352,Variant=0.8604259707062739$左右两边都有未知数$\epsilon$按二元一次方程组来  
