@@ -4,5 +4,6 @@
 
 
 4、
-&emsp;&emsp;解：按着提议将$d_{vc}=50, \sigma=0.05$带入下面各式计算结果&emsp;&emsp;$Original=0.632174915200836,Radmacher=0.3282912038471584,Parrondo=0.2236982936807856,$  
+&emsp;&emsp;解：按着提议将$d_{vc}=50, \sigma=0.05$带入下面各式计算结果  
+&emsp;&emsp;$Original=0.632174915200836,Radmacher=0.3282912038471584,Parrondo=0.2236982936807856,$  
 &emsp;&emsp;$Devroye=0.21522850732079352,Variant=0.8604259707062739$左右两边都有未知数$\epsilon$按二元一次方程组来解。
