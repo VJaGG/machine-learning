@@ -15,4 +15,6 @@
 &emsp;&emsp;解：按着题意将$d_{vc}=50, \sigma=0.05, N=5$带入下面各式计算结果  
 &emsp;&emsp;$Original=13.828161484991483,Radmacher=7.048776564183685,Parrondo=5.101361981989992,$  
 &emsp;&emsp;$Devroye=5.599525295062205,Variant=16.264111061012045$左右两边都有未知数$\epsilon$按二元一次方程组来  
-&emsp;&emsp;解。
+&emsp;&emsp;解。  
+6、  
+&emsp;&emsp;解：对于$N$个点一共有$N+1$个位置，从中选择两个位置一共有$C_{N+1}^{2}$
