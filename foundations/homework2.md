@@ -23,5 +23,7 @@
 7、$3$  
 &emsp;&emsp;解：根据第六题得出$m_{\cal H}(N)=N^{2}-N+2$，带入计算$m_{\cal H}(1)=2=2^{1}$，$m_{\cal H}(2)=4=2^{2}$，  
 &emsp;&emsp;$m_{\cal H}(3)=8=2^{3}$，$m_{\cal H}(4)=14\lt2^{4}$，所以"positive-and-negative intervals on $\Bbb R$"的VC-dimension=3  
-8、$\binom{N+1}{2} + 1$
+8、$\binom{N+1}{2} + 1$  
+&emsp;&emsp;解：与课程中的positive interval是一个问题，对于N个样本，N+1个位置，正样本的区间为从中任意选两个组成$\binom{N+1}{2}$,
+&emsp;&emsp;加上全为负样本的一种，所以总共$\binom{N+1}{2} + 1$。
 
