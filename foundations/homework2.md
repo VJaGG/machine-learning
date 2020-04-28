@@ -22,4 +22,6 @@
 &emsp;&emsp;一种开口向上左边一种开口向上对应右边一种开口向上。所以总共$2\times C_{N+1}^{2}-2\times(N-1)=N^{2}-N+2$。  
 7、$3$  
 &emsp;&emsp;解：根据第六题得出$m_{\cal H}(N)=N^{2}-N+2$，带入计算$m_{\cal H}(1)=2=2^{1}$，$m_{\cal H}(2)=4=2^{2}$，  
-&emsp;&emsp;$m_{\cal H}(3)=8=2^{3}$，$m_{\cal H}(4)=14\lt2^{4}$，所以"positive-and-negative intervals on $\Bbb R$"的VC-dimension=3 
+&emsp;&emsp;$m_{\cal H}(3)=8=2^{3}$，$m_{\cal H}(4)=14\lt2^{4}$，所以"positive-and-negative intervals on $\Bbb R$"的VC-dimension=3  
+8、$\binom{N+1}{2} + 1$
+
