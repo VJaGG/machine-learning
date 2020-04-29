@@ -25,5 +25,9 @@
 &emsp;&emsp;$m_{\cal H}(3)=8=2^{3}$，$m_{\cal H}(4)=14\lt2^{4}$，所以"positive-and-negative intervals on $\Bbb R$"的VC-dimension=3  
 8、$\binom{N+1}{2} + 1$  
 &emsp;&emsp;解：与课程中的positive interval是一个问题，对于N个样本，N+1个位置，正样本的区间为从中任意选两个组成$\binom{N+1}{2}$,  
-&emsp;&emsp;加上全为负样本的一种，所以总共$\binom{N+1}{2} + 1$。
+&emsp;&emsp;加上全为负样本的一种，所以总共$\binom{N+1}{2} + 1$。  
+9、$D+1$  
+&emsp;&emsp;解：题目中的算法为PLA，课程中有证明。  
+10、$2^{d}$  
+&emsp;&emsp;解：
 
