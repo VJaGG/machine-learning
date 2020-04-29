@@ -31,5 +31,5 @@
 10、$2^{d}$  
 &emsp;&emsp;解：  
 11、$\infty$  
-12、$\min_{1\le i\le N-1}2^{i}\cal m_{\cal H}(N-i)$
+12、$\min_{1\le i\le N-1}2^{i}\cal m_{\cal H} (N-i)$
 
