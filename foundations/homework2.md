@@ -30,5 +30,5 @@
 &emsp;&emsp;解：题目中的算法为PLA，课程中有证明。  
 10、$2^{d}$  
 &emsp;&emsp;解：  
-11、$+\infty$
+11、$\infty$
 
