@@ -36,7 +36,7 @@
 
 14、$0\le d_{\cal vc}(\bigcap_{\cal k=1}^{K} \cal H_{\cal k}) \le max \\{ d_{\cal vc}(\cal H_{\cal k}) \\}_{\cal k=1}^{K} $  
 
-15、$max \\{ d_{\cal vc}(\cal H_{\cal k}) \\}_{\cal k=1}^{K} \le d_{\cal vc}(\bigcup_{\cal k=1}^{K} \cal H_{\cal k})$  
+15、$max \\{ d_{\cal vc}(\cal H_{\cal k}) \\}_{\cal k=1}^{K} \le d_{\cal vc}()$  
 
 16、  
 17-20、[running stump](code/stump.py)
