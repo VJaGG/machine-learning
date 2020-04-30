@@ -38,5 +38,5 @@
 
 15、$max \{ d_{\cal vc}(\cal H_{\cal k}) \}_{\cal k=1}^{K}\le d_{\cal vc}$  
 
-16、  
+16、$0.5+0.3s(|\theta|-1)$  
 17-20、[running stump](code/stump.py)
