@@ -32,7 +32,7 @@
 &emsp;&emsp;解：  
 11、$\infty$  
 12、$\min_{1\le i\le N-1} 2^{i}\cal m_{\cal H} (N-i)$  
-13、  
+13、$2^{\lfloor \sqrt N \rfloor}$  
 14、  
 15、  
 16、  
