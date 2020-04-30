@@ -34,6 +34,6 @@
 12、$\min_{1\le i\le N-1} 2^{i}\cal m_{\cal H} (N-i)$  
 13、$2^{\lfloor \sqrt N \rfloor}$  
 14、$0\le d_{\cal vc}(\bigcap_{\cal k=1}^{K} \cal H_{\cal k}) \le max \\{ d_{\cal vc}(\cal H_{\cal k}) \\}_{\cal k=1}^{K} $  
-15、 
+15、$max \\{ d_{\cal vc}(\cal H_{\cal k}) \\}_{\cal k=1}^{K}$  
 16、  
 17-20、[running stump](code/stump.py)
