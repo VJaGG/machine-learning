@@ -15,4 +15,4 @@
 15、$0.1$  
 16、$\frac{1}{N}$  
 17、  
-18、19、20
+18-20、[logistic regresssion](code/logistic_regression.py)
