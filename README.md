@@ -15,7 +15,7 @@
     * [Perceptron](foundations/code/perceptron.py)
     * [Pocket](foundations/code/pocket.py)
     * [Stump](foundations/code/stump.py)
-    * [Linear Regression](foundations/code/logistic_regression.py)
-    * Logistic Regression
+    * Linear Regression
+    * [Logistic Regression](foundations/code/logistic_regression.py)
  
 
