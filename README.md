@@ -4,7 +4,7 @@
     * [homework1](foundations/homework1.md)
     * [homework2](foundations/homework2.md)
     * [homework3](foundations/homework3.md)
-    * homework4
+    * [homework4](foundations/homework4.md)
   + [Techniques](techniques/)
     * [homework1](foundations/homework1.md)
     * homework2
