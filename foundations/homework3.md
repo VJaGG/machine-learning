@@ -12,8 +12,8 @@
 11、$x_{1},x_{2},x_{3},x_{4},x_{5},x_{6}$(通过画图直接得出结果)  
 12、$E_{in}=0.7$  
 13、$0.5$  
-14、$g(x_{1}, x_{2}) = sign(-1-0.05x_{1}+0.08x_{2}+0.13x_{1}x_{2}+1.5x_{1}^{2}+1.5x_{2}^{2})$[newton](code/feature.py)  
-15、$0.1$[feature](code/feature.py)  
+14、$g(x_{1}, x_{2}) = sign(-1-0.05x_{1}+0.08x_{2}+0.13x_{1}x_{2}+1.5x_{1}^{2}+1.5x_{2}^{2})$ running code [newton](code/feature.py)  
+15、$0.1$ running code [feature](code/feature.py)  
 16、$\frac{1}{N}\sum_{n=1}^N(ln(\sum_{k=1}^Kexp(w_{k}^Tx_{n}))-w_{yn}^Tx_{n})$  
 17、$\frac{1}{N}\sum_{n=1}^N((h_{i}(x_{n})-[[y_{n}==i]])x_{n})$  
 18-20、running code [logistic regresssion](code/logistic_regression.py)
