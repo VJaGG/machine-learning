@@ -15,5 +15,5 @@
 14、$g(x_{1}, x_{2}) = sign(-1-0.05x_{1}+0.08x_{2}+0.13x_{1}x_{2}+1.5x_{1}^{2}+1.5x_{2}^{2})$[newton](code/feature.py)  
 15、$0.1$[feature](code/feature.py)  
 16、$\frac{1}{N}\sum_{n=1}^N(ln(\sum_{k=1}^Kexp(w_{k}^Tx_{n}))-w_{yn}^Tx_{n})$  
-17、  
+17、$\frac{1}{N}\sum_{n=1}^N((h_{i}(x_{n})-[[y_{n}==i]])x_{n})$  
 18-20、[logistic regresssion](code/logistic_regression.py)
