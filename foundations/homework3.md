@@ -3,7 +3,7 @@
 3、$\cal err(w) = max(0, 1-\cal yw^{T}x)$  
 4、$\cal err(w) = \frac {1}{2}exp(-\cal yw^{T}x)$  
 5、$\cal err(w) = max(0, -\cal yw^{T}x)$  
-![Alt text](imgs/answer.jpg)  
+![Alt text](https://raw.githubusercontent.com/VJaGG/machine-learning/master/foundations/imgs/answer.jpg)  
 6、$(-2, 0)$  
 7、$2.825$  
 8、$(1.5, 4, -0.5, -1, -2, 0)$  
