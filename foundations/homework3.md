@@ -6,7 +6,7 @@
 ![image](https://github.com/VJaGG/machine-learning/blob/master/foundations/imgs/answer.jpg)  
 6、$(-2, 0)$(直接进行计算梯度)  
 7、$2.825$[newton](code/newton.py)  
-8、$(1.5, 4, -0.5, -1, -2, 0)$  
+8、$(1.5, 4, -1, -2, 0, 3)$  
 9、$-(\nabla^{2}E(u, v))^{-1}\nabla E(u, v)$  
 10、$2.361$[newton](code/newton.py)  
 11、$x_{1},x_{2},x_{3},x_{4},x_{5},x_{6}$(通过画图直接得出结果)  
